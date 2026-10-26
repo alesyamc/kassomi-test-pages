@@ -1,0 +1,38 @@
+# Kassomi
+
+> Unabhängiges Vergleichsportal für Kartenterminals und Kassensysteme für kleine Unternehmen in Deutschland. Alle Preise stammen von den Websites der Anbieter und werden mit Quelle und Prüfdatum angegeben. Kassomi vergibt keine Testnoten und testet keine Geräte selbst.
+
+## Seiten
+
+- [Kartenterminal-Vergleich](https://www.kassomi.de/kartenterminal-vergleich/): EC-Kartenlesegeräte, Gebühren, Laufzeiten, Rechenbeispiele
+- [Gebührenrechner](https://www.kassomi.de/gebuehrenrechner/): Kosten der Kartenzahlung für den eigenen Umsatz
+- [So vergleichen wir](https://www.kassomi.de/so-vergleichen-wir/): Quellen, Kriterien, Partnerlinks
+
+## Fakten (Stand 25.10.2026)
+
+- SumUp: 0 € + 1,39 % je Kartenzahlung vor Ort, Quelle https://www.sumup.com/de-de/preise/ (geprüft 25.10.2026)
+- SumUp Zahlungen Plus: 19 € + 0,79 % je Kartenzahlung vor Ort, Quelle https://www.sumup.com/de-de/preise/ (geprüft 25.10.2026)
+- Zettle by PayPal: 0 € + 1,39 % je Kartenzahlung vor Ort, Quelle https://www.zettle.com/de/kosten (geprüft 25.10.2026)
+- myPOS One: 0 € + 1,29 % je Kartenzahlung vor Ort, Quelle https://www.mypos.com/de-de/pricing-and-fees (geprüft 25.10.2026)
+- myPOS Plus: 19 € + 0,89 % je Kartenzahlung vor Ort, Quelle https://www.mypos.com/de-de/pricing-and-fees (geprüft 25.10.2026)
+- myPOS Pro: 39 € + 0,79 % je Kartenzahlung vor Ort, Quelle https://www.mypos.com/de-de/pricing-and-fees (geprüft 25.10.2026)
+- flatpay: 0 € + 1,39 % je Kartenzahlung vor Ort, Quelle https://www.flatpay.com/de/preise (geprüft 25.10.2026)
+- Mollie Pay as you go: 0 € + 1,5 % je Kartenzahlung vor Ort, Quelle https://www.mollie.com/de/pricing (geprüft 25.10.2026)
+- Mollie Pro: 20 € + 0,85 % + 0,10 € je Kartenzahlung vor Ort, Quelle https://www.mollie.com/de/pricing (geprüft 25.10.2026)
+- Stripe Terminal: 0 € + 1,4 % + 0,10 € je Kartenzahlung vor Ort, Quelle https://stripe.com/de/pricing (geprüft 25.10.2026)
+- PAYONE All Time Flex: 0 € + 1,9 % je Kartenzahlung vor Ort, Quelle https://www.payone.com/DE-de/bezahlloesungen/kartenlesegeraete/all-time-flex (geprüft 25.10.2026)
+
+## Rechenbeispiele (Girocard und EWR-Verbraucherkarten, ohne Gerät)
+
+- Marktstand mit 1.500 € Kartenumsatz und 100 Zahlungen im Monat: günstigster Tarif myPOS One mit 19,35 €
+- Café mit 6.000 € Kartenumsatz und 750 Zahlungen im Monat: günstigster Tarif SumUp Zahlungen Plus mit 66,40 €
+- Friseursalon mit 10.000 € Kartenumsatz und 250 Zahlungen im Monat: günstigster Tarif SumUp Zahlungen Plus mit 98,00 €
+- Boutique mit 20.000 € Kartenumsatz und 400 Zahlungen im Monat: günstigster Tarif SumUp Zahlungen Plus mit 177,00 €
+- Bis etwa 3.800 € Kartenumsatz im Monat ist myPOS One am günstigsten, darüber SumUp Zahlungen Plus.
+
+## Rechtliches (Stand 25.10.2026)
+
+- Heute gibt es in Deutschland keine gesetzliche Pflicht für Geschäfte, Kartenzahlung anzunehmen.
+- Das Bundesfinanzministerium hat am 11.09.2026 Eckpunkte für eine Pflicht zu mindestens einer digitalen Zahlungsart vorgelegt; ein Gesetzentwurf liegt nicht vor.
+- Das Bundeskabinett hat am 23.09.2026 einen Gesetzentwurf beschlossen: Kassenpflicht ab 1.1.2028 für Betriebe mit mehr als 100.000 € Jahresumsatz, ausgenommen Barumsätze unter 12.000 € im Jahr.
+- Seit 1.1.2020 müssen elektronische Kassen durch eine zertifizierte TSE geschützt sein (§ 146a AO).
